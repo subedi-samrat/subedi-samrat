@@ -1,14 +1,12 @@
 <div align="center">
-  
-# 👨‍💻 Samrat Subedi
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Chief+Technology+Officer;Tech+Enthusiast)](https://git.io/typing-svg)
-
+  <img width="100%" height="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Samrat%20Subedi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 </div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Chief+Technology+Officer;Tech+Enthusiast&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</p>
 
 ## 🚀 About Me
-I'm a Full Stack Developer with a passion for creating innovative and user-friendly web and mobile applications.
-With a strong background in PHP, JavaScript, Python, Java, C#, C/C++ and more, I specialize in building robust and efficient software solutions.
+I'm a Full Stack Developer with a passion for creating innovative and user-friendly software solutions for web and mobile applications. With a strong background in PHP, JavaScript, Python, Java, C#, C/C++ and more, I specialize in building robust and efficient software solutions.
 
 I'm currently serving as the Chief Technology Officer (CTO) at KhatraTech, where I lead the technological initiatives for:
 - 🏢 [KhatraTech](https://khatratech.com) - Innovative Tech Solutions
@@ -27,7 +25,7 @@ class Developer:
         self.languages = ["PHP", "JavaScript", "Python", "Java", "C#", "C/C++"]
         self.frameworks = {
             "backend": ["Laravel", "Django", "NestJS", "Spring Boot", ".NET", "Flask", "Express.js", "NodeJS"],
-            "frontend": ["Next.js", "React", "Vue.js", "Nuxt.js", "Angular"],
+            "frontend": ["React", "Next.js", "Vue.js", "Nuxt.js"],
             "mobile": ["React Native", "Flutter"],
             "ml_ai": ["NumPy", "Pandas", "Matplotlib", "scikit-learn", "TensorFlow", "PyTorch", "Keras" ]
         }
@@ -150,8 +148,11 @@ class Developer:
 
 ---
 <div align="center">
-  
-![Profile Views](https://visitcount.itsvg.in/api?id=subedi-samrat&icon=0&color=0)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Thanks+for+visiting!;Let's+connect+and+collaborate!)](https://git.io/typing-svg)
-
+  <img src="https://visitcount.itsvg.in/api?id=subedi-samrat&icon=0&color=0" alt="Profile Views"/>
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Thanks+for+visiting!;Let's+connect+and+collaborate!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+</div>
+
+---
