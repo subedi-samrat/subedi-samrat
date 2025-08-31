@@ -131,6 +131,7 @@ class Developer:
 <div align="center">
   
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=subedi-samrat&theme=radical&hide_border=true&include_all_commits=true&count_private=true) -->
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=subedi-samrat&theme=radical&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subedi-samrat&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
@@ -144,10 +145,13 @@ class Developer:
 
 ## 🔗 Connect With Me
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samrat-subedi)
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/samrat-subedi)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/saw_mrat)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samrat.subedi.77)
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/samrat-subedi)
+
+
 </div>
 
 ## 💰 Support My Work
